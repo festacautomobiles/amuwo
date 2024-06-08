@@ -77,6 +77,11 @@
   .center p i {
     color: white;
   }
+
+.image-write{
+  background-color: green;
+  text-align: center;
+}
   
   .price {
     display: flex;
