@@ -4,24 +4,34 @@ p {
 }
 
 body {
-    background: url(./Gallery_20240510_171215.png);
+    background: url(./new/Gallery_20240830_011716.png);
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 80vh;
     width: 100%;
     background-size: cover;
     background-position: center;
+    margin-top: -200px;
 }
 
 .container {
     color:white;
+    font-size: 30px;
+    margin-left: -70px;
+    margin-top: 200px;
+
     
+}
+h2{
+    margin-left: 80px;
+    margin-top: 80px;
 }
 
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+    margin-left: 240px;
+    margin-top: -120px;
 
 }
 
@@ -29,11 +39,29 @@ nav ul li {
     display: inline-block;
     padding: 10px 20px;
     list-style: none;
-}
-
-button {
+    font-size: 30px;
     border: none;
     border-radius: 2px;
     padding: 5px 12px;
-    background-color:white;
+    background-color: white;
+    
+    
+}
+
+.price{
+    margin-top: 350px;
+    align-items: center;
+    color: blue;
+    margin-left: 100px;
+
+}
+
+button {
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
 }
