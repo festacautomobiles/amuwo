@@ -18,7 +18,7 @@
     padding-bottom: 5px;
     
   }
-  button {
+   button {
     width: 200px;
     height: 30px;
     border: none;
@@ -34,10 +34,17 @@
 
   .navbar a button {
     background: #fff;
-    color: #288adf;
+    color: green;
     border: none;
     padding: 8px 15px;
-    border-radius: 100px;}
+    border-radius: 10px;
+    width: 150px;
+    height: 30px;
+    font-size: medium;
+  
+  
+  }
+    
   
   
   
