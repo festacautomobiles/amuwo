@@ -18,6 +18,20 @@
     padding-bottom: 5px;
     
   }
+  button {
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+
   .navbar a button {
     background: #fff;
     color: #288adf;
@@ -93,6 +107,7 @@
     overflow: hidden;
     background-color: black;
   }
+ 
   
   .price figure {
     padding: 10px;
@@ -118,4 +133,4 @@
       object-fit: cover;
     }
   }
-  
+
